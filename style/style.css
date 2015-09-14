@@ -1,0 +1,145 @@
+/*Styling for the index file */
+body{
+background-color:brown;
+
+}
+nav{
+background-color: grey;
+text-align: center;
+height: 100px;
+padding-top: 65px;
+padding-bottom: 0px;
+border-radius: 6px;
+display: block;
+
+}
+
+h1{
+font-family:cursive;
+font-style: italic;
+color:blue;
+font-weight: 400;
+font-size: 26px;
+}
+
+div.logo{
+float: left;
+height: 11px;
+width: 3px;
+margin: 2px;
+padding-top: 2px;
+clear: both;
+}
+
+#Blank{
+height:auto;
+background-color: black;
+}
+li{
+    list-style: none;
+    display: inline;
+    margin: 2px;
+    padding: 30px;
+    height: auto;
+    font-size: 23px;
+
+
+}
+#Blank{
+    text-align: center;
+    text-decoration-color: white;
+    font-family: sans-serif;
+
+}
+section{
+float: left;
+width: auto;
+clear: both;
+color: white;
+font-size: 18px;
+display:inline-flex;
+}
+
+
+#image{
+float: right;
+height: auto;
+clear: both;
+padding-left: auto;
+display: inline;
+
+}
+
+
+
+a {
+background-color:burlywood;
+    padding: 3px;
+border-radius: 5px;
+    text-decoration: none;
+}
+a:hover{
+color: cyan;
+}
+footer {
+display: block;
+border-style: none;
+height: inherit;
+background-color:darkslategrey;
+border-radius: 5px;
+font-size: 17px;
+clear: both;
+height: 120px;
+}
+#social{
+float: left;
+padding-left:15px;
+padding-top: 25px;
+
+}
+#post{
+text-align: center;
+padding-top: 30px;
+
+}
+#msge{
+text-align: right;
+padding-bottom: 20px;
+}
+
+
+/*CSS styling for contact us page*/
+table{
+border-color: azure;
+padding: 10px;
+text-decoration-color: azure;
+
+}
+td{
+padding: 18px;
+padding-left: 20px;
+}
+form{
+color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
